@@ -1,4 +1,4 @@
-### Hey there :wave:
+#### Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -9,7 +9,7 @@
 
 ## About 
 
-My name is RAJ NARAYAN MISHRA and I am a B.Tech student in Computer Science and Engineering , I'm from Uttar Pradesh,India .
+Myself RAJ NARAYAN MISHRA,I am a B.Tech student in Computer Science and Engineering .
 Hoping to Make a my Future in Aritificial intelligence.
 
 
@@ -25,6 +25,7 @@ Hoping to Make a my Future in Aritificial intelligence.
 
 
 ## Skills and Experience
+
 *  Java Programming 
 *  C Programming 
 *  Android Development
@@ -33,13 +34,21 @@ Hoping to Make a my Future in Aritificial intelligence.
 
 ## Socials 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raj-ravan)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/raj_mishra_837cc4233dc88f)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/raj-narayan-mishra-9177531bb//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/rajnarayan8584)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raj-ravan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/raj_mishra_837cc4233dc88f)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/raj-narayan-mishra-9177531bb//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/rajnarayan8584)  
+## Statistics
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raj-ravan)  
 
-## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-ravan)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj-ravan&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raj-ravan&show_icons=true&count_private=true)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=raj-ravan)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=raj-ravan)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=raj-ravan)  
+
+![Profile views](https://gpvc.arturio.dev/raj-ravan)  
