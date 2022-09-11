@@ -23,7 +23,7 @@ Hoping to Make a my Future in Aritificial intelligence.
 *  Database 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj-ravan)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raj-ravan&show_icons=true&theme=radical)
 
