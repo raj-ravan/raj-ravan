@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
+## About 
 
 My name is RAJ NARAYAN MISHRA and I am a B.Tech student in Computer Science and Engineering , I'm from Uttar Pradesh,India .
 Hoping to Make a my Future in Aritificial intelligence.
