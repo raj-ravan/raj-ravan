@@ -25,6 +25,13 @@ Hoping to Make a my Future in Aritificial intelligence.
 - ⚡ Fun fact: .....
 
 
+## Repo Overview
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-ravan" alt="raj-ravan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/raj-ravan" target="blank"><img src="https://img.shields.io/twitter/follow/raj-ravan?logo=twitter&style=for-the-badge" alt="raj-ravan" /></a> </p>
+
+
 ## Skills and Experience
 
 *  Java Programming 
